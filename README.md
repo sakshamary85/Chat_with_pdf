@@ -46,7 +46,7 @@ pip install -r requirement.txt
 
 3. **Clone the repository**
    ```bash
-   https://github.com/sakshamary85/Chat_with_pdf
+   https://github.com/sakshamary85/Chat_with_pdf-EZ-LAB-TASK-DATA-SCIENCE-INTERN
 
 4. **Install dependencies**
    ```bash
@@ -56,6 +56,12 @@ pip install -r requirement.txt
    ```bash
    streamlit run app.py
 
+6. **For Check the model Working here**
+   
+   ```bash
+   https://github.com/sakshamary85/Chat_with_pdf-EZ-LAB-TASK-DATA-SCIENCE-INTERN-/tree/main/demo.png
+**Demo**
+![Demo Screenshot](https://github.com/sakshamary85/Chat_with_pdf-EZ-LAB-TASK-DATA-SCIENCE-INTERN-/blob/main/demo.png/Screenshot%202025-07-14%20020832.png)
 ---
 
 ## 🧠 Architecture & Reasoning Flow
@@ -89,7 +95,3 @@ pip install -r requirement.txt
 ---
 
 #### ⚠️ I implemented the core logic in Python using modular backend files, and built the UI + interaction logic using Streamlit to provide a seamless and responsive user experience, as per the requirement.
-
----
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
