@@ -46,7 +46,7 @@ pip install -r requirement.txt
 
 3. **Clone the repository**
    ```bash
-   https://github.com/AryaAnuj2004/SmartAI-Document-Assistant
+   https://github.com/sakshamary85/Chat_with_pdf
 
 4. **Install dependencies**
    ```bash
