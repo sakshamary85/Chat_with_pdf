@@ -2,8 +2,8 @@ import streamlit as st
 import os
 from backend.file_handler import extract_text
 from backend.summarizer import generate_summary
-from backend.qa_engine import prepare_retriever, answer_question
-from backend.challenge_engine import generate_challenge_questions,evaluate_answers
+from backend.question_answer_engine import prepare_retriever, answer_question
+from backend.challenge import generate_challenge_questions,evaluate_answers
 
 
 # ---- Disable LangChain telemetry warnings ----
